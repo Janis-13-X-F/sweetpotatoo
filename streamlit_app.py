@@ -8,7 +8,7 @@ st.image("e8cead85c002cf0012be723e98245e47.jpg")
 # iniwmanjay
 
 
-st.tittle("yippieyooi")
+st.title("yippieyooi")
 st.header("Aplikasi Mengecek Nilai Genap/Ganjil")
 angka = st.number_input("Tulis sebuah Angka:", value=0, step=1)
 
